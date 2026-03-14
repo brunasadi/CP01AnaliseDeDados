@@ -344,4 +344,8 @@ Ele é calculado a partir de medições em obras reais, análise estatística do
 - Como são definidos os pesos usados na comparação entre tabelas?
 - Com que frequência essas tabelas são atualizadas?
 - Como lidar com diferenças de produtividade entre equipes e condições de obra?
+<<<<<<< HEAD
 """)
+=======
+""")
+>>>>>>> ced3e81bb36f9ae0e57fd66053a1e2c5309ca6d7
