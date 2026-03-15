@@ -339,9 +339,7 @@ Ele é calculado a partir de medições em obras reais, análise estatística do
     st.subheader("Possíveis perguntas")
 
     st.markdown("""
-- Como são escolhidas as obras utilizadas para coletar dados?
-- Quantas medições são necessárias para garantir confiabilidade?
-- Como são definidos os pesos usados na comparação entre tabelas?
-- Com que frequência essas tabelas são atualizadas?
-- Como lidar com diferenças de produtividade entre equipes e condições de obra?
+- Quais critérios são utilizados para selecionar as obras que serão usadas na coleta de dados de produtividade?
+- Com que frequência as tabelas de composição de custos são revisadas e atualizadas para refletir as condições reais do mercado?
+
 """)
